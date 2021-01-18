@@ -1,0 +1,1 @@
+This is a foundational assignment where I will demonstrate some basic HTML and CSS knowledge to replicate the Google homepage.
