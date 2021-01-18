@@ -34,8 +34,9 @@
 
 .SearchBar {
   width: 500px;
-  height: 30px;
-  border-color: #a3aab1;
-  border-width: 0.25px solid;
+  height: 35px;
+  border-color: #d5d2d2;
+  border-width: thin;
+  border-style: solid;
   border-radius: 50px 50px 50px 50px;
 }
